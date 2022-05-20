@@ -1,4 +1,4 @@
-A. Perché (scopi e obiettivi della digitalizzazione) 
+A. Perché (scopi e obiettivi della digitalizzazione)
 =====================================================
 
 L’individuazione degli scopi e degli obiettivi costituisce la prima
@@ -16,7 +16,7 @@ originali, 2. fruizione e valorizzazione dei beni, 3. studio del
 patrimonio, 4. recupero di campagne di digitalizzazione pregresse.
 
 A.1. Conservazione degli originali
-----------------------------------
+**********************************
 
 Nelle attività di conservazione degli originali il desiderio e la
 necessità di preservare opere spesso fragili e sottoposte alle ingiurie
@@ -57,10 +57,10 @@ caratteristiche e gli elementi oggettivi da quelli soggettivi. Questi
 ultimi, infatti, possono essere appropriatamente descritti nei metadati
 (ad esempio, la scelta della puntina del giradischi, il *color
 management*, la scelta dell’ottica, etc.) e conservati insieme alla
-copia digitale\ *.*
+copia digitale.
 
 A.2. Fruizione e valorizzazione dei beni
-----------------------------------------
+****************************************
 
 Il digitale aiuta ad attuare in maniera più efficace lo spirito
 dell’art. 9 della Costituzione italiana, amplificando le modalità di
@@ -76,7 +76,7 @@ correlazioni tra beni, luoghi, discipline, progetti e infrastrutture a
 livello italiano, europeo e internazionale.
 
 A.3. Studio e diagnosi del materiale
-------------------------------------
+************************************
 
 La riproduzione digitale del bene ha anche una finalità scientifica
 legata alla conoscenza del bene stesso. Una risorsa digitale consente di
@@ -99,7 +99,7 @@ od opportuno procedere con un restauro *fisico* oppure in combinazione
 con quest’ultimo.
 
 A.4. Recupero di campagne di digitalizzazione pregresse
--------------------------------------------------------
+*******************************************************
 
 A partire dagli Novanta del secolo scorso sono state condotte importanti
 campagne di digitalizzazione, spesso in assenza di regolamentazione

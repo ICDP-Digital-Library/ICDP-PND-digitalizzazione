@@ -76,10 +76,10 @@ D.1. Digitalizzazione 2D
 ------------------------
 
 D.1.A. Strumenti e metodologie in relazione alle tipologie dei beni
--------------------------------------------------------------------
+###################################################################
 
-D.1.A.1. Scanner: tipologie e caratteristiche 
-----------------------------------------------
+D.1.A.1. Scanner: tipologie e caratteristiche
+*********************************************
 
 Principali strumenti di digitalizzazione di oggetti bidimensionali, gli
 scanner sono di diversi tipi e offrono un’articolata varietà di
@@ -92,7 +92,7 @@ file nel formato grezzo (RAW). Per la scelta degli scanner si può fare
 riferimento allo standard ISO 19264-1-2021.
 
 D.1.A.2. Scanner piani
-----------------------
+**********************
 
 Generalmente disponibili sul mercato con formati che vanno dall’A4
 all’A2+, gli scanner piani impiegano un gruppo optoelettronico che
@@ -114,7 +114,7 @@ formati che non è possibile trattare con lo scanner piano a “tamburo
 virtuale”.
 
 D.1.A.3. Scanner per pellicole
-------------------------------
+******************************
 
 Si tratta di apparecchi appositamente dedicati alla scansione di
 pellicole: l’acquisizione delle immagini non avviene, come nel caso
@@ -132,12 +132,12 @@ sul bilanciamento del colore e la saturazione.
 24x36 (con e senza telaietto).
 
 D.1.A.4. Scanner per pellicole cinematografiche e microfilm
------------------------------------------------------------
+***********************************************************
 
 [*in corso di redazione*]
 
 D.1.A.5. Scanner a tamburo
---------------------------
+**************************
 
 Contrariamente agli altri, negli scanner a tamburo il gruppo
 optoelettronico è fermo rispetto al documento che viene disteso intorno
@@ -162,7 +162,7 @@ dimensione. Assolutamente sconsigliato per l’acquisizione digitale di
 beni culturali.
 
 D.1.A.6. Scanner a tamburo virtuale
------------------------------------
+***********************************
 
 Particolarmente indicati nella scansione di originali fotografici, gli
 scanner a tamburo virtuale sono caratterizzati dal fatto che tra il
@@ -191,8 +191,8 @@ modello di scanner più adatto ai propri scopi vi sono i valori di
 dinamica** (vedi Glossario) e, a questa strettamente legati, di
 **profondità di bit**.
 
-D.1.A.7. Fotocamere: tipologie e caratteristiche 
--------------------------------------------------
+D.1.A.7. Fotocamere: tipologie e caratteristiche
+************************************************
 
 La fotocamera, insieme o in sostituzione allo scanner, rappresenta lo
 strumento maggiormente idoneo al processo di digitalizzazione.
@@ -254,7 +254,7 @@ architettonico utilizzando fotocamere od ottiche a corpi mobili, capaci
 quindi di operare movimenti di decentramento e/o basculaggio.
 
 D.1.B. Esempi di flusso di lavoro
----------------------------------
+*********************************
 
 Una volta individuato il corpus di opere da digitalizzare e i relativi
 mezzi di riproduzione da impiegare (macchina fotografica, scanner), va
@@ -402,10 +402,10 @@ D.2. Digitalizzazione 3D
 ------------------------
 
 D.2.A. Strumenti e metodologia per la digitalizzazione tridimensionale (laser scanning e fotogrammetria 3D)
------------------------------------------------------------------------------------------------------------
+***********************************************************************************************************
 
 D.2.A.1. Strumentazioni laser scanning
---------------------------------------
+**************************************
 
 Ogni tecnologia laser può avere diverse modalità di impiego. Oltre alla
 classica postazione fissa su treppiedi – la più usata per gli scanner a
@@ -417,7 +417,7 @@ complessità, quali statue, bassorilievi e altorilievi, strumenti
 musicali.
 
 D.2.A.2. Strumentazioni per la fotogrammetria 3D
-------------------------------------------------
+************************************************
 
 L’acquisizione fotogrammetrica dei beni culturali deve avere requisiti
 minimi per poter offrire la precisione dello sviluppo geometrico e della
@@ -447,7 +447,7 @@ fotogrammetria con *reflex* digitale e drone, acquisizione con due
 tipologie di scanner, quello a laser o quello a luce strutturata, etc.).
 
 D.2.A.3. Post-produzione
-------------------------
+************************
 
 Una volta acquisite le informazioni digitali tridimensionali, devono
 essere effettuate opportune operazioni di post-produzione attraverso lo
@@ -466,8 +466,8 @@ devono poi essere processate con *software* dedicati per ottimizzarle,
 in modo da garantire sia un risultato visivo ottimale sia la possibilità
 di navigazione attraverso i più comuni *browser web*.
 
-D.2.A.4. Elaborazione del dato 
--------------------------------
+D.2.A.4. Elaborazione del dato
+******************************
 
 L’elaborazione dei dati acquisiti richiede *workstation* dalle elevate
 potenzialità in termini di processore, RAM, scheda video e capacità di
@@ -518,7 +518,7 @@ complessità, nel suo essere palinsesto di segni stratificati nel corso
 del tempo.
 
 D.2.A.5. Scala metrica e georeferenziazione
--------------------------------------------
+*******************************************
 
 Le digitalizzazioni con tecniche laser scanner e fotogrammetriche devono
 essere scalabili metricamente secondo l’unità di misura metrica e
@@ -533,7 +533,7 @@ sistema di riferimento geodetico nazionale ETRF2000 [2]_o almeno al più
 diffuso sistema di riferimento geodetico mondiale WGS84.
 
 D.3. Digitalizzazione audio / video
------------------------------------
+***********************************
 
 Le numerose modifiche tecnologiche hanno reso i supporti audiovisivi
 sempre più complessi e soggetti alla obsolescenza dei sistemi. Data la
@@ -600,8 +600,8 @@ documenti della IASA:
 -  IASA-TC 06 (2019), *Guidelines for the Preservation of Video
    Recordings*\  [6]_
 
-D.3.A. Principi generali e standards per la digitalizzazione dei documenti sonori 
-----------------------------------------------------------------------------------
+D.3.A. Principi generali e standards per la digitalizzazione dei documenti sonori
+*********************************************************************************
 
 È importante, ai fini della conservazione dell'audio, che i formati, le
 risoluzioni, i supporti e i sistemi tecnologici utilizzati rispettino i
@@ -626,7 +626,7 @@ rispecchiare i seguenti parametri:
    *interleaved stereo wave* (estensione del file .WAV).
 
 D.3.B. Estrazione del segnale dai supporti originali
-----------------------------------------------------
+****************************************************
 
 Nel processo di digitalizzazione occupa una parte importante
 l'ottimizzazione del recupero del segnale dei supporti originali, e
@@ -645,7 +645,7 @@ metodo di pulitura più appropriato dipende dal supporto specifico e
 dalle sue condizioni.
 
 D.3.C. Attrezzature di riproduzione
------------------------------------
+***********************************
 
 La riproduzione dei supporti audio e video prevede l’utilizzo di una
 catena di apparecchiature. La combinazione degli strumenti di
@@ -666,7 +666,7 @@ l'approvvigionamento dei pezzi di ricambio, considerato che la loro
 disponibilità è limitata nel tempo.
 
 D.3.D. Sistemi per la conservazione
------------------------------------
+***********************************
 
 Infine, per richiamare un principio generale presente nelle linee guida
 della IASA, occorre tenere presente che «le strategie sulla gestione,
@@ -681,8 +681,7 @@ tecnologie. L'obiettivo principale nella conservazione digitale è quello
 di costruire sistemi sostenibili piuttosto che supporti
 permanenti» [7]_.
 
-.. [1]
-   Le curve MTF restituiscono parametri tecnici che ci permettono di
+.. [1] Le curve MTF restituiscono parametri tecnici che ci permettono di
    giudicare le qualità di una lente in maniera oggettiva. Tali
    parametri sono: la risoluzione e il contrasto dell’ottica, il suo
    astigmatismo e l’aberrazione cromatica laterale, il campo di
@@ -691,8 +690,7 @@ permanenti» [7]_.
    riproduzioni in cui gli originali hanno un elevato dettaglio fine
    (per esempio, le incisioni), ne guidano la scelta.
 
-.. [2]
-    Nel 2011, con Decreto della Presidenza del Consiglio dei
+.. [2] Nel 2011, con Decreto della Presidenza del Consiglio dei
    Ministri \ (Adozione del Sistema di riferimento geodetico nazionale,
    10.11.2011), per agevolare la fruibilità e lo scambio di dati e di
    informazioni territoriali fra le amministrazioni centrali, regionali
@@ -701,20 +699,12 @@ permanenti» [7]_.
    riferimento geodetico europeo ETRS89, basato sull'ellissoide GRS80
    (sostanzialmente coincidente con il successivo WGS84). 
 
-.. [3]
-    https://www.iasa-web.org/.
+.. [3] `<https://www.iasa-web.org/>`_.
 
-.. [4]
-    https://www.iasa-web.org/tc04/audio-preservation.
+.. [4] `<https://www.iasa-web.org/tc04/audio-preservation>`_.
 
-.. [5]
+.. [5] `<https://www.iasa-web.org/tc05-it/gestione-e-archiviazione-dei-supporti-audio-e-video>`_.
 
-   https://www.iasa-web.org/tc05-it/gestione-e-archiviazione-dei-supporti-audio-e-video.
+.. [6] `<https://www.iasa-web.org/tc06/guidelines-preservation-video-recordings>`_ `<https://www.iasa-web.org/tc06/guidelines-preservation-video-recordings>`_.
 
-.. [6]
-
-   h\ \ `ttps://www.iasa-web.org/tc06/guidelines-preservation-video-recordings <https://www.iasa-web.org/tc06/guidelines-preservation-video-recordings>`__.
-
-.. [7]
-    IASA-TC 04 (2009, 2nd edition), *Guidelines on the Production and
-   Preservation of Digital Audio Objects,* p. 90.
+.. [7] IASA-TC 04 (2009, 2nd edition), *Guidelines on the Production and Preservation of Digital Audio Objects,* p. 90.

@@ -17,7 +17,7 @@ Il modello prevede, a meno di specifiche esigenze del singolo sistema di
 gestione delle risorse digitali, l’individuazione di 4 elementi
 principali:
 
--  Codice Istituto [1]_;
+-  Codice Istituto [43]_;
 
 -  Codice Oggetto (la suddivisione interna di un codice oggetto può
    seguire una sintassi interna specifica per sistema
@@ -38,6 +38,5 @@ così articolata:
 Il carattere “+” segnala la separazione tra le diverse aree di
 informazione.
 
-.. [1]
-   Codici identificativi possono essere: codice ISIL (ISO 15511), codice
+.. [43] Codici identificativi possono essere: codice ISIL (ISO 15511), codice
    ISTAT, codice SBN, codice RISM.

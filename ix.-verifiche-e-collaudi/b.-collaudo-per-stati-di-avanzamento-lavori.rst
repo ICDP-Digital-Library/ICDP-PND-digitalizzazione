@@ -77,7 +77,7 @@ shelf*. Si indicano di seguito alcune di queste verifiche:
 -  risoluzione dell’immagine, mediante analisi del riferimento
    millimetrico: la valutazione verte sul rapporto fisico del materiale
    (misurazione su scala centimetrica) e numero di pixel attesi in
-   funzione della risoluzione prevista [1]_
+   funzione della risoluzione prevista [53]_
 
 -  profondità di colore (24 bit) e corretto profilo colore (Adobe RGB)
 
@@ -90,7 +90,7 @@ shelf*. Si indicano di seguito alcune di queste verifiche:
 
 -  qualità dell’OCR, laddove applicabile
 
-.. [1]
+.. [53]
    È utile fornire un esempio: se la risoluzione prevista è di 300 ppi
    (pixel per pollice), la misurazione del segmento (che deve essere
    perfettamente dritto) deve mostrare 300 punti. La misurazione di un

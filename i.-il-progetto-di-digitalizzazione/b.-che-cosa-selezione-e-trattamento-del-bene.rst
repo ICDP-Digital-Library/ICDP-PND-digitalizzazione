@@ -1,4 +1,4 @@
-B. Che cosa (selezione e trattamento del bene) 
+B. Che cosa (selezione e trattamento del bene)
 ===============================================
 
 La scelta dei beni da digitalizzare è un'attività strettamente legata
@@ -53,4 +53,4 @@ Nella selezione del materiale da digitalizzare una priorità può essere
 data agli strumenti di ricerca e di accesso al patrimonio. Questa scelta
 può risultare propedeutica alla digitalizzazione del patrimonio stesso.
 
-.. |image0| image:: ./media/image2.jpeg
+.. |image0| image:: ../media/image2.jpeg

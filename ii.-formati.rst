@@ -3,7 +3,7 @@ II. Formati
 
 I formati dei file prodotti in un progetto di digitalizzazione vanno
 scelti tra quelli che possono maggiormente garantire l’interoperabilità
-tra i sistemi e la conservazione digitale [1]_.
+tra i sistemi e la conservazione digitale [8]_.
 
 Il formato per la conservazione a lungo termine è senza perdita di
 informazione (lossless) e non compresso, preferibilmente di tipo
@@ -32,9 +32,7 @@ Si forniscono di seguito alcuni riferimenti:
   ii.-formati/d.-file-3d.rst
   ii.-formati/e.-immagini-gigapixel.rst
 
-.. [1]
-    Per i formati adatti alla conservazione a lungo termine si veda
+.. [8] Per i formati adatti alla conservazione a lungo termine si veda
    l’Allegato 2 al documento *Linee Guida sulla formazione, gestione e
    conservazione dei documenti informatici - Formati di file e
-   riversamento* e s.m.i.:
-   https://www.agid.gov.it/sites/default/files/repository_files/allegato_2_formati_di_file_e_riversamento.pdf
+   riversamento* e s.m.i.: `<https://www.agid.gov.it/sites/default/files/repository_files/allegato_2_formati_di_file_e_riversamento.pdf>`_

@@ -28,7 +28,7 @@ finalità:
 Fatta salva la possibilità di produrre metadati secondo standard
 necessari per la gestione delle risorse all’interno dei propri sistemi,
 nelle presenti linee guida si dà conto del METS (Metadata Encoding and
-Transmission Standard) [1]_, standard di metadatazione che occorre
+Transmission Standard) [13]_, standard di metadatazione che occorre
 utilizzare a livello nazionale per la descrizione e la gestione degli
 oggetti digitali nei progetti di digitalizzazione e che deve fungere
 anche da linguaggio di interscambio tra i sistemi afferenti e l’Istituto
@@ -69,5 +69,4 @@ Un documento METS è costituito da sette sezioni principali:
    comportamenti (per esempio, la visualizzazione) con il contenuto
    dell'oggetto METS.
 
-.. [1]
-   https://www.loc.gov/standards/mets/.
+.. [13] `<https://www.loc.gov/standards/mets/>`_.

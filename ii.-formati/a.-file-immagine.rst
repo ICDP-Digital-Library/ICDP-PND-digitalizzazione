@@ -5,7 +5,7 @@ Il file master che deve essere richiesto consiste in un pacchetto di
 file comprendente: il RAW non compresso, con allegato il file
 collaterale XMP, e il TIFF 6.0 non compresso a 16 o 48 bit (scala di
 grigi o RGB), a seconda della cromia del bene. La consegna dei file RAW
-deve avvenire in formato DNG [1]_. La risoluzione spaziale minima del
+deve avvenire in formato DNG [9]_. La risoluzione spaziale minima del
 file master dipende da molteplici fattori quali, a esempio, la tipologia
 del sensore della fotocamera/scanner, la dimensione del bene, etc. (vedi
 **Append.01 – Parametri di acquisizione digitale)**
@@ -37,6 +37,5 @@ caratteristiche e requisiti funzionali che un archivio basato sull’uso
 del formato FITS deve soddisfare per l’idoneità a lungo termine della
 conservazione delle immagini digitali.
 
-.. [1]
-    In taluni casi, per specifiche esigenze documentate di progetto, è
+.. [9] In taluni casi, per specifiche esigenze documentate di progetto, è
    possibile richiedere solo i file TIFF.

@@ -2,7 +2,7 @@ E. Quando
 =========
 
 E.1. Digitalizzazione e restauro
---------------------------------
+********************************
 
 Un progetto di digitalizzazione può riguardare sia beni in buono stato
 di conservazione sia beni che necessitano di interventi di restauro. In
@@ -17,7 +17,7 @@ garantito il collegamento con l’oggetto digitalizzato prima del restauro
 e con la scheda di restauro.
 
 E.2. Digitalizzazione e metadatazione/descrizione
--------------------------------------------------
+*************************************************
 
 Lo scenario ottimale in cui avviare una campagna di digitalizzazione è
 quello in cui i beni siano già stati ordinati, inventariati, catalogati.

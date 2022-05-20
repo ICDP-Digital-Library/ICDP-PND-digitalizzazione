@@ -1,4 +1,4 @@
-F. Metadati per la conservazione 
+F. Metadati per la conservazione
 =================================
 
 I metadati possono essere funzionali ad alcune attività di
@@ -28,9 +28,8 @@ digitale, documentandone la provenienza e la sua catena di custodia.
 Lo standard internazionale di riferimento per la conservazione degli
 oggetti digitali è PREMIS (*Preservation Metadata: Implementation
 Strategies*), versione 3.0 rilasciata nel 2015 dalla *Library of
-Congress*\  [1]_. PREMIS definisce i metadati di conservazione come
+Congress*\  [42]_. PREMIS definisce i metadati di conservazione come
 l’informazione usata da un repository allo scopo di supportare il
 processo di conservazione digitale.
 
-.. [1]
-   https://www.loc.gov/standards/premis/v3/.
+.. [42] `<https://www.loc.gov/standards/premis/v3/.>`_

@@ -78,14 +78,12 @@ di identificazione del materiale e della descrizione.
 
 Occorre richiedere che nei supporti siano inseriti gli elenchi degli
 hash di ogni singolo file memorizzato (secondo un algoritmo dichiarato:
-MD5 [1]_o SHA1 [2]_).
+MD5 [53]_ o SHA1 [54]_).
 
 Ogni disco fisico deve essere identificato con una apposita etichetta,
 che ne riporti anche i contenuti e deve essere consegnato in apposita
 custodia a prova di polvere.
 
-.. [1]
-   https://it.wikipedia.org/wiki/MD5.
+.. [53] `<https://it.wikipedia.org/wiki/MD5>`_.
 
-.. [2]
-   https://it.wikipedia.org/wiki/Secure_Hash_Algorithm.
+.. [54] `<https://it.wikipedia.org/wiki/Secure_Hash_Algorithm>`_.

@@ -3,7 +3,7 @@ C. Esempi di nomenclatura
 
 Un esempio di ambito archivistico può essere il seguente:
 
--  Codice Istituto = **IT-MC0238**\  [1]_
+-  Codice Istituto = **IT-MC0238**\ [44]_
 
 -  Codice Oggetto = **00000213**
 
@@ -32,7 +32,7 @@ IT-MC0238+Anagrafe_Registri_00000213+00001.jpg
 Un esempio per gli oggetti digitali collegati a descrizioni
 bibliografiche può essere il seguente:
 
--  Codice Istituto = **IT-MI0185**\  [2]_
+-  Codice Istituto = **IT-MI0185**\ [45]_
 
 -  Codice Oggetto = **BVEE022376**
 
@@ -122,8 +122,6 @@ come è strutturato il Codice Oggetto, vanno rese esplicite e descritte
 nella documentazione di progettazione, e inserite nei supporti di
 consegna.
 
-.. [1]
-   Codice ISIL dell’Archivio di Stato di Macerata.
+.. [44] Codice ISIL dell’Archivio di Stato di Macerata.
 
-.. [2]
-   Codice ISIL della Biblioteca nazionale Braidense.
+.. [45] Codice ISIL della Biblioteca nazionale Braidense.
