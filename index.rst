@@ -1,10 +1,15 @@
-**Piano nazionale di digitalizzazione del patrimonio culturale**
-
-Linee guida per la digitalizzazione del patrimonio culturale
 ============================================================
+Piano nazionale di digitalizzazione del patrimonio culturale
+============================================================
+
 |image0|
 
-**Versione in consultazione 2022-2023**
+**2022-2023**
+
+Linee guida per la digitalizzazione del patrimonio culturale
+
+**Versione 1.0 – giugno 2022**
+
 
 .. toctree::
   :maxdepth: 3
@@ -12,17 +17,23 @@ Linee guida per la digitalizzazione del patrimonio culturale
 
   crediti.rst
   premessa.rst
-  i.-il-progetto-di-digitalizzazione.rst
-  ii.-formati.rst
-  iii.-ocr.rst
-  iv.-metadati.rst
-  v.-diritti.rst
-  vi.-nomenclatura-degli-oggetti-digitali.rst
-  vii.-voci-di-costo.rst
-  viii.-il-capitolato.rst
-  ix.-verifiche-e-collaudi.rst
-  x.-supporti.rst
+
+
+.. toctree::
+  :maxdepth: 3
+  :numbered:
+
+  il-progetto-di-digitalizzazione.rst
+  formati.rst
+  metadati.rst
+  diritti.rst
+  nomenclatura-degli-oggetti-digitali.rst
+  voci-di-costo.rst
+  il-capitolato.rst
+  verifiche-e-collaudi.rst
+  supporti.rst
   riferimenti-bibliografici.rst
+  appendici.rst
 
 .. |image0| image:: ./media/image1.png
    :width: 1.55347in

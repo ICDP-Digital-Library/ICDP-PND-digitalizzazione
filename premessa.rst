@@ -1,13 +1,14 @@
 Premessa
 ========
 
-Le Linee guida sulla digitalizzazione del patrimonio culturale
+Le Linee guida per la digitalizzazione del patrimonio culturale
 definiscono gli approcci e le procedure per la creazione, la
-metadatazione e la conservazione degli oggetti digitali. Il documento,
-dal carattere più informativo che prescrittivo, intende fornire una base
-teorica e tecnica rivolta al personale che negli istituti culturali è
-incaricato della preparazione e della gestione dei progetti di
-digitalizzazione.
+metadatazione e l’archiviazione degli oggetti digitali, ovvero le
+riproduzioni, eseguite con diverse modalità tecniche e procedure, del
+patrimonio analogico. Il documento, dal carattere informativo più che
+prescrittivo, intende fornire una base teorica e tecnica rivolta al
+personale degli istituti culturali che è incaricato della preparazione e
+della gestione dei progetti di digitalizzazione.
 
 Queste Linee guida definiscono il progetto di digitalizzazione in
 relazione alle motivazioni della digitalizzazione, agli attori coinvolti
@@ -34,10 +35,10 @@ professionale e metodologico. Allo stesso modo non costituiscono oggetto
 di questo documento le operazioni di digitalizzazione effettuate per
 finalità diagnostiche. Gli aspetti gestionali delle infrastrutture per
 lo storage e della conservazione a lungo termine, il tema dei sistemi di
-accesso e fruizione, l’argomento delle licenze d’uso e di circolazione
-delle riproduzioni dei beni culturali e della strutturazione del *data
-management plan* sono demandati agli altri Appendici tecniche del Piano
-nazionale di digitalizzazione.
+accesso e fruizione, l’argomento delle licenze d’uso e della
+circolazione delle riproduzioni dei beni culturali, nonché la
+strutturazione del piano di gestione dei dati sono demandati ad altri
+allegati tecnici del Piano nazionale di digitalizzazione.
 
 Le Linee guida per la digitalizzazione del patrimonio culturale offrono
 paradigmi di processo e modelli operativi volti a creare una solida base
