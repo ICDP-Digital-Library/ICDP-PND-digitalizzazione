@@ -21,18 +21,18 @@ dettagliato al capitolo VII. *Voci di costo*.
 
    1. Obiettivi e finalità
 
-   2. Descrizione dei beni (cfr. Par. 1.2)
+   2. Descrizione dei beni (cfr. par. :ref:`che_cosa`)
 
 2. Progetto di digitalizzazione
 
    3.  Trattamento dei beni (ed eventuale ricondizionamento)
 
    4.  Figure professionali richieste per la costituzione del gruppo di
-       progetto (cfr. Par. 1.3)
+       progetto (cfr. par. :ref:`chi`)
 
    5.  Formazione specifica per il personale impiegato
 
-   6.  Il processo di digitalizzazione (cfr. par. 1.4)
+   6.  Il processo di digitalizzazione (cfr. par. :ref:`come`)
 
        1. Risorse strumentali e metodologie in relazione alla tipologia
           dei beni  [1]_
@@ -51,7 +51,7 @@ dettagliato al capitolo VII. *Voci di costo*.
 
    8.  Supporti
 
-   9.  Luogo di lavoro [2]_ (cfr. par. 1.6)
+   9.  Luogo di lavoro [2]_ (cfr. par. :ref:`dove`)
 
    10. Orario di servizio [3]_
 
@@ -79,7 +79,7 @@ dettagliato al capitolo VII. *Voci di costo*.
 
    15. Strumenti a supporto della fornitura [7]_
 
-   16. Verifiche e collaudi (cfr. par. IX)
+   16. Verifiche e collaudi (cfr. par. :ref:`verifiche_e_collaudi`)
 
    17. Analisi e gestione del rischio
 

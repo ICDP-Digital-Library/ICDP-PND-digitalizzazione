@@ -26,6 +26,8 @@ analogici, il numero degli oggetti da digitalizzare nell’ambito del
 progetto e i costi di storage connessi all’archiviazione digitale dei
 file master.
 
+.. _Linee guida per la redazione del piano di gestione dei dati: https://docs.italia.it/italia/icdp/icdp-pnd-dmp-docs/
+
 Nel caso, ad esempio, della digitalizzazione bidimensionale di documenti
 cartacei quali periodici a stampa come giornali e quotidiani, è
 possibile richiedere come file master unicamente il file TIFF secondo le
@@ -35,8 +37,7 @@ bibliotecario si traduce in un maggiore costo di storage del gran numero
 di file RAW prodotti in fase di digitalizzazione. In ogni caso, la
 scelta dei componenti del pacchetto dei file master, delle loro
 caratteristiche e formati deve essere adeguatamente documentata e
-argomentata nel piano di gestione dei dati (DMP, cfr. *Linee guida per
-la redazione del piano di gestione dei dati*, par. 7.2.2).
+argomentata nel piano di gestione dei dati (DMP, cfr. `Linee guida per la redazione del piano di gestione dei dati`_).
 
 I file derivati da richiedere dipendono dalla specificità del progetto
 di digitalizzazione: sono consigliabili file compressi in formato JPG

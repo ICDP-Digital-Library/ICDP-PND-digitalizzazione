@@ -1,5 +1,7 @@
+.. _diritti:
+
 Diritti 
-========
+=======
 
 Nell’ambito di un progetto di digitalizzazione ciascun istituto deve
 accertare eventuali diritti d’autore in essere e la loro titolarità. I

@@ -1,3 +1,5 @@
+.. _che_cosa:
+
 Che cosa (selezione e trattamento del bene) 
 ===========================================
 
@@ -41,9 +43,9 @@ legame univoco fra il record catalografico che descrive la risorsa
 fisica e il metadato descrittivo che accompagna le risorse digitali.
 
 La tipologia, la quantità e la collocazione dei beni individuati
-determineranno chi (enti coinvolti e team di progetto, cfr. Par. 1.3)
+determineranno chi (enti coinvolti e team di progetto, cfr. par. :ref:`chi`)
 dovrà contribuire al processo di digitalizzazione, nonché le modalità
-(cfr. Par. 1.4) e la logistica (cfr. Par. 1.6) dell’acquisizione
+(cfr. par. :ref:`come`) e la logistica (cfr. par. :ref:`dove`) dell’acquisizione
 digitale.
 
 I beni da digitalizzare devono essere predisposti in modo da risultare

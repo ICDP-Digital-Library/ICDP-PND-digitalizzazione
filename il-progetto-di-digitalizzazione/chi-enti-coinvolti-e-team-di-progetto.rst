@@ -1,3 +1,5 @@
+.. _chi:
+
 Chi (enti coinvolti e team di progetto)
 =======================================
 
@@ -199,7 +201,7 @@ gestione dei dati (si vedano a tal proposito le *Linee guida per la
 redazione del piano di gestione dei dati (Data Management Plan),*
 allegate al PND. È responsabile della generazione dei metadati
 descrittivi, tecnici e gestionali, che vanno redatti in base agli
-standard di metadatazione richiesti nel progetto (cfr. Par. 4).
+standard di metadatazione richiesti nel progetto (cfr. par. :ref:`diritti`).
 
 Assistente informatico
 ----------------------

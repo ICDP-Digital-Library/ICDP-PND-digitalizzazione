@@ -1,3 +1,5 @@
+.. _verifiche_e_collaudi:
+
 Verifiche e collaudi
 ====================
 

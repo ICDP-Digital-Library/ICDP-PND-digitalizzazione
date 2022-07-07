@@ -18,10 +18,10 @@ congrua nella fase di proposta.
 Le voci di costo di cui tenere conto sono sostanzialmente le seguenti:
 
 -  Individuazione e quantificazione delle risorse da digitalizzare (cfr.
-   par. 1.2)
+   par. :ref:`che_cosa`)
 
 -  Risorse umane previste nel progetto di digitalizzazione (cfr. par.
-   1.3)
+   :ref:`chi`)
 
    -  RUP
 
