@@ -3,7 +3,6 @@ Metadati
 
 .. toctree::
   :maxdepth: 3
-  :numbered:
   :caption: Indice dei contenuti
 
   metadati/indicazioni-generali.rst

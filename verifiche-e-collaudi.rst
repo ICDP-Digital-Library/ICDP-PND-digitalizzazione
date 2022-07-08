@@ -13,7 +13,6 @@ intervenire con correttivi in fasi più avanzate.
 .. toctree::
   :maxdepth: 3
   :caption: Indice dei contenuti
-  :numbered:
 
   verifiche-e-collaudi/collaudo-del-campione-tecnico-iniziale-prototipo.rst
   verifiche-e-collaudi/collaudo-per-stati-di-avanzamento-lavori.rst

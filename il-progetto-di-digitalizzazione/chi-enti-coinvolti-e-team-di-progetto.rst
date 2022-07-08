@@ -147,8 +147,7 @@ umidità e modalità d’uso delle apparecchiature). Infine, il restauratore
 ha cura di verificare, nel caso in cui la digitalizzazione avvenga in un
 luogo esterno all’istituto di conservazione, l’adeguatezza dei mezzi e
 delle modalità di movimentazione e dei locali presso i quali i beni
-devono essere trasferiti per le attività di digitalizzazione. in cui i
-beni devono transitare.
+devono essere trasferiti per le attività di digitalizzazione. 
 
 Addetto alla logistica
 ----------------------
@@ -161,7 +160,7 @@ generale movimentati. L’addetto alla logistica si occupa anche delle
 modalità di imballaggio e della messa in sicurezza dei beni durante il
 trasporto.
 
-Responsabile tecnico 
+Responsabile tecnico
 ---------------------
 
 Il responsabile tecnico ha il compito di individuare le attrezzature e i
@@ -177,7 +176,7 @@ Risponde al responsabile tecnico. Esegue la digitalizzazione del
 materiale e deve possedere adeguata conoscenza della strumentazione
 utilizzata.
 
-Catalogatore 
+Catalogatore
 -------------
 
 È la figura professionale a cui sono richiesti specifici requisiti di

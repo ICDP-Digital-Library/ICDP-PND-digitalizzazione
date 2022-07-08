@@ -3,7 +3,6 @@ Appendici
 
 .. toctree::
   :maxdepth: 3
-  :numbered:
   :caption: Indice dei contenuti
 
   appendici/glossario.rst

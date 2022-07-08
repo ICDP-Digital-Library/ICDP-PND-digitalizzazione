@@ -30,11 +30,12 @@ loro specificità materiali e compositive.
 | Beni della dimensione fino a 60   | 400 ppi                           |
 | cm lato lungo                     |                                   |
 +-----------------------------------+-----------------------------------+
-| Beni della dimensione fino a 100  | 300 ppi                           |
+| Beni della dimensione fino a 100  | 3000 ppi                           |
 | cm lato lungo                     |                                   |
 +-----------------------------------+-----------------------------------+
 | Beni della dimensione oltre i 100 | Variabile a seconda della         |
-| cm lato lungo                     | destinazione finale dell’         |
+| cm lato lungo                     | destinazione finale modellare     |
+|                                   | immagine                          |
 +-----------------------------------+-----------------------------------+
 
 La tabella riporta, per le varie tipologie di beni di differenti
