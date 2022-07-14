@@ -97,8 +97,7 @@ Glossario
     grado di risolvere. PPI indica il numero di pixel contenuti in un
     singolo pollice di un'immagine visualizzata nel monitor di un computer.
 
-    Distorsione (ottica)
-
+  Distorsione (ottica)
     Aberrazione ottica, tipica di alcuni obiettivi. Viene detta “a
     barilotto” quando l'immagine di un quadrato e più ingrandita al centro
     che ai bordi (l'immagine ricorda quella di un piccolo barile).
@@ -169,10 +168,10 @@ Glossario
     momento della registrazione dell’immagine da parte dello scanner o della
     fotocamera e in essa incorporati. I dati registrati possono essere:
 
-    Statici: come ad esempio quelli che identificano marca e modello della
+    - Statici: come ad esempio quelli che identificano marca e modello della
     macchina fotografica;
 
-    Dinamici; che cambiano di foto in foto, come ad esempio i valori usati
+    - Dinamici; che cambiano di foto in foto, come ad esempio i valori usati
     per apertura, tempo di esposizione e ISO o la data in cui la foto è
     stata scattata.
 
@@ -427,7 +426,7 @@ Glossario
     che se la macchina registra a:
 
     -  12 bit per canale, ogni canale supporta 4.096 livelli di luminosità
-       (2 elevato alla dodicesima)
+       (2 elevato alla dodicesima);
 
     -  14 bit ne supporta 16.384 (2 elevato alla quattordicesima).
 
