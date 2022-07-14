@@ -1,4 +1,4 @@
-Metadati tecnici 
+Metadati tecnici
 =================
 
 I metadati tecnici possono essere interni o esterni al file della
@@ -18,7 +18,7 @@ descrittivi può essere rappresentato all’esterno del file.
 Exif
 ----
 
-I metadati Exif (*Exchangeable Image file format*) [1]_ descrivono i
+I metadati Exif (*Exchangeable Image file format*) [39]_ descrivono i
 parametri tecnici utilizzati al momento dell’acquisizione dell’immagine,
 ovvero della scansione o dello scatto fotografico. Le informazioni
 registrate nei metadati Exif possono riguardare:
@@ -44,11 +44,11 @@ registrate nei metadati Exif possono riguardare:
 IPTC
 ----
 
-I metadati IPTC (*Information Interchange Model*) [2]_, conosciuti anche
+I metadati IPTC (*Information Interchange Model*) [40]_, conosciuti anche
 come IPTC-NAA-Standard, sono una struttura dati che può essere applicata
 a file immagine, video e ad alcuni formati audio. In generale sono
 metadati interni, ma possono essere anche rappresentati come metadati
-esterni in formato JSON [3]_ e YAML [4]_. Vengono compilati laddove sia
+esterni in formato JSON [41]_ e YAML [42]_. Vengono compilati laddove sia
 necessario garantire un livello minimo di descrizione degli oggetti
 digitali. Le regole di compilazione e la mappatura vanno descritte nel
 documento di progettazione.
@@ -57,7 +57,7 @@ BWF
 ---
 
 I metadati BWF (*Broadcast Wave Format*), standardizzati dalla *European
-Broadcasting Union* (EBU) [5]_, si usano per i file audio in formato
+Broadcasting Union* (EBU) [43]_, si usano per i file audio in formato
 WAVE. Questi consentono la memorizzazione di un numero limitato di dati
 descrittivi all'interno del file WAVE. Questa scelta permette la
 conservazione del collegamento tra metadati e audio digitale. Tuttavia,
@@ -68,7 +68,7 @@ XMP
 ---
 
 Il formato XMP (*eXtensible Metadata Platform*), creato da Adobe e
-successivamente standardizzato nella norma ISO 16684-1:2012 [6]_, è una
+successivamente standardizzato nella norma ISO 16684-1:2012 [44]_, è una
 descrizione del processo di modifica del file per la codifica di
 informazioni significative su un progetto (titoli e descrizioni, parole
 chiave ricercabili e informazioni aggiornate sull'autore e sul
@@ -84,28 +84,28 @@ All’interno del METS, sezione <amdSec>, gli standard adottati per la
 descrizione di tali caratteristiche tecniche sono:
 
 -  NISO-MIX (NISO *Metadata for Images* in XML schema - *Still
-   images*) [7]_ per le immagini;
+   images*) [45]_ per le immagini;
 
--  AUDIO-MD e VIDEO-MD [8]_ per la codifica dei metadati tecnici dei
+-  AUDIO-MD e VIDEO-MD [46]_ per la codifica dei metadati tecnici dei
    documenti sonori e audiovisivi.
 
-.. [1] Exif è stato creato dalla Japan Electronic Industries Development
+.. [39] Exif è stato creato dalla Japan Electronic Industries Development
    Association (JEIDA). La versione 2.1 è datata 12 giugno 1998, la
    versione 2.2 è dell'aprile 2002 ed è anche conosciuta come Exif
    Print. Attualmente Exif non è supportata da aziende od organizzazioni
    che seguono gli standard, tuttavia è il formato utilizzato da tutti i
    produttori di fotocamere.
 
-.. [2] https://iptc.org/
+.. [40] https://iptc.org/
 
-.. [3] https://iptc.org/std/photometadata/specification/iptc-pmd-techreference_2019.1.json
+.. [41] https://iptc.org/std/photometadata/specification/iptc-pmd-techreference_2019.1.json
 
-.. [4] https://iptc.org/std/photometadata/specification/iptc-pmd-techreference_2019.1.yml
+.. [42] https://iptc.org/std/photometadata/specification/iptc-pmd-techreference_2019.1.yml
 
-.. [5] https://www.loc.gov/preservation/digital/formats/fdd/fdd000356.shtml
+.. [43] https://www.loc.gov/preservation/digital/formats/fdd/fdd000356.shtml
 
-.. [6] https://www.iso.org/standard/57421.html
+.. [44] https://www.iso.org/standard/57421.html
 
-.. [7] https://www.loc.gov/standards/mix/
+.. [45] https://www.loc.gov/standards/mix/
 
-.. [8] https://www.loc.gov/standards/amdvmd/
+.. [46] https://www.loc.gov/standards/amdvmd/

@@ -77,7 +77,7 @@ shelf*. Si indicano di seguito alcune di queste verifiche:
 -  risoluzione dell’immagine, mediante analisi del riferimento
    millimetrico: la valutazione verte sul rapporto fisico del materiale
    (misurazione su scala centimetrica) e numero di pixel attesi in
-   funzione della risoluzione prevista [1]_;
+   funzione della risoluzione prevista [63]_;
 
 -  profondità di colore (24 bit) e corretto profilo colore (Adobe RGB);
 
@@ -96,7 +96,7 @@ metadati) all'interno di una Teca Digitale. In questo caso è necessario
 indicare uno specifico criterio di accettazione che preveda il loro
 corretto caricamento.
 
-.. [1] È utile fornire un esempio: se la risoluzione prevista è di 300 ppi
+.. [63] È utile fornire un esempio: se la risoluzione prevista è di 300 ppi
    (pixel per pollice), la misurazione del segmento (che deve essere
    perfettamente dritto) deve mostrare 300 punti. La misurazione di un
    pollice (2,54 cm) nei 300 punti può essere compromessa da micro

@@ -57,11 +57,11 @@ Le voci di costo di cui tenere conto sono sostanzialmente le seguenti:
 
 -  Gestione dell’infrastruttura di *storage*
 
--  Storage hardware e/o in cloud degli oggetti digitali
+-  *Storage* hardware e/o in *cloud* degli oggetti digitali
 
 -  Conservazione a lungo termine delle risorse digitali
 
--  Software di gestione dei workflow di digitalizzazione
+-  Software di gestione dei *workflow* di digitalizzazione
 
 -  Software di supporto alla gestione del progetto e della
    documentazione

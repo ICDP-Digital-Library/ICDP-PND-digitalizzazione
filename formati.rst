@@ -4,7 +4,7 @@ Formati
 I formati dei file prodotti in un progetto di digitalizzazione vanno
 scelti tra quelli che possono maggiormente garantire l’interoperabilità
 tra i sistemi e la conservazione digitale, adottando, laddove possibile,
-formati standard internazionali e aperti  [1]_. Le presenti Linee guida
+formati standard internazionali e aperti  [12]_. Le presenti Linee guida
 non forniranno una trattazione esaustiva in merito a tutti i formati
 disponibili per la digitalizzazione del patrimonio culturale, ma si
 limiteranno ad indicare il formato e le caratteristiche generali più
@@ -35,7 +35,7 @@ presenta meno perdita di informazioni e maggiore interoperabilità.
   formati/file-audio.rst
   formati/file-3d.rst
 
-.. [1] Per i formati adatti alla conservazione a lungo termine si veda
+.. [12] Per i formati adatti alla conservazione a lungo termine si veda
    l’Allegato 2 al documento *Linee Guida sulla formazione, gestione e
    conservazione dei documenti informatici - Formati di file e
    riversamento* e s.m.i.

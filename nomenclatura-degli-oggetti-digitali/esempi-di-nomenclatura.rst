@@ -3,7 +3,7 @@ Esempi di nomenclatura
 
 Un esempio di ambito archivistico può essere il seguente:
 
--  Codice Istituto = **IT-MC0238** [1]_
+-  Codice Istituto = **IT-MC0238** [50]_
 
 -  Codice Oggetto = **00000213**
 
@@ -21,7 +21,7 @@ seguente:
 
 -  Codice Istituto = **IT-MC0238**
 
--  Codice Oggetto = **Anagrafe_Registri_00000213** [2]_
+-  Codice Oggetto = **Anagrafe_Registri_00000213** [51]_
 
 -  Numero Progressivo = **00001**
 
@@ -36,9 +36,9 @@ per l’oggetto.
 Un esempio per gli oggetti digitali collegati a descrizioni
 bibliografiche può essere il seguente:
 
--  Codice Istituto = **IT-MI0185** [3]_
+-  Codice Istituto = **IT-MI0185** [52]_
 
--  Codice Oggetto = **BVEE022376** [4]_
+-  Codice Oggetto = **BVEE022376** [53]_
 
 -  Numero Progressivo = **00001**
 
@@ -59,7 +59,7 @@ Un esempio può essere il seguente:
 
 -  Codice Istituto = **IT-MI0185**
 
--  Codice Oggetto = **TO00199240_18690503_01** [5]_
+-  Codice Oggetto = **TO00199240_18690503_01** [54]_
 
 -  Numero Progressivo = **00001**
 
@@ -125,15 +125,15 @@ come è strutturato il codice oggetto, vanno rese esplicite e descritte
 nella documentazione di progettazione, e inserite nei supporti di
 consegna.
 
-.. [1] Codice ISIL dell’Archivio di Stato di Macerata.
+.. [50] Codice ISIL dell’Archivio di Stato di Macerata.
 
-.. [2] Segnatura dell’unità modificata per essere *URI compliant* in cui lo
+.. [51] Segnatura dell’unità modificata per essere *URI compliant* in cui lo
    spazio è sostituito dal carattere “_” [underscore].
 
-.. [3] Codice ISIL della Biblioteca nazionale Braidense.
+.. [52] Codice ISIL della Biblioteca nazionale Braidense.
 
-.. [4] In questo caso il codice oggetto è un BID SBN
+.. [53] In questo caso il codice oggetto è un BID SBN
    (http://id.sbn.it/bid/BVEE022376).
 
-.. [5] Dove TO00199240 rappresenta il BID dell’unità nel catalogo
+.. [54] Dove TO00199240 rappresenta il BID dell’unità nel catalogo
    nazionale; 18690503_01 rappresenta i Dati cronologici del fascicolo.

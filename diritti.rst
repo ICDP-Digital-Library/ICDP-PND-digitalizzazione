@@ -1,9 +1,9 @@
 .. _diritti:
 
-Diritti 
+Diritti
 =======
 
-Nell’ambito di un progetto di digitalizzazione ciascun istituto deve
+Nell’ambito di un progetto di digitalizzazione, ciascun istituto deve
 accertare eventuali diritti d’autore in essere e la loro titolarità. I
 diritti possono riguardare l’originale o la sua riproduzione, così come
 la sua metadatazione e la sua descrizione. Molti progetti di

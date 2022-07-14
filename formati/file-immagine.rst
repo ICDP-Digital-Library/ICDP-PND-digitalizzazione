@@ -23,13 +23,13 @@ formato di ciascuno di questi file sono la tipologia dei materiali
 analogici da digitalizzare, le caratteristiche dei macchinari e delle
 tecniche di digitalizzazione più appropriate in relazione agli oggetti
 analogici, il numero degli oggetti da digitalizzare nell’ambito del
-progetto e i costi di storage connessi all’archiviazione digitale dei
+progetto e i costi di *storage* connessi all’archiviazione digitale dei
 file master.
 
 .. _Linee guida per la redazione del piano di gestione dei dati: https://docs.italia.it/italia/icdp/icdp-pnd-dmp-docs/
 
 Nel caso, ad esempio, della digitalizzazione bidimensionale di documenti
-cartacei quali periodici a stampa come giornali e quotidiani, è
+cartacei, quali periodici a stampa, come giornali e quotidiani, è
 possibile richiedere come file master unicamente il file TIFF secondo le
 specifiche sopra indicate. Infatti, il considerevole numero di oggetti
 digitali prodotti nell’ambito del progetto di digitalizzazione di ambito
@@ -41,11 +41,11 @@ argomentata nel piano di gestione dei dati (DMP, cfr. `Linee guida per la redazi
 
 I file derivati da richiedere dipendono dalla specificità del progetto
 di digitalizzazione: sono consigliabili file compressi in formato JPG
-con lato lungo di almeno 3000 pixel, con qualità di **compressione*d**
-non inferiore al 75%, aventi spazio colore sRGB o scala di grigi [1]_, a
+con lato lungo di almeno 3000 pixel, con qualità di **compressione**
+non inferiore al 75%, aventi spazio colore sRGB o scala di grigi [13]_, a
 seconda della tipologia di scansione effettuata. In alternativa al
 “classico” JPG può essere richiesto il formato contenitore HEIF (*High
-Efficiency Image Format*) o HEIC (*High Efficiency Image Coding*) [2]_.
+Efficiency Image Format*) o HEIC (*High Efficiency Image Coding*) [14]_.
 
 Si segnala anche il formato standard FITS, definito dallo *IAU FITS
 Working Group, Commission B2 Data and Documentation* (Definition of the
@@ -122,7 +122,7 @@ Caratteristiche di un file RAW
    scatto, tutta una serie di impostazioni senza minimamente inficiare
    il risultato che si sarebbe ottenuto applicandole al momento stesso
    dello scatto. Così, durante il processo di sviluppo è possibile
-   applicare ad esempio le regolazioni della temperatura del colore
+   applicare, ad esempio, le regolazioni della temperatura del colore
    senza pregiudicare la qualità dell’immagine (la modifica della
    temperatura colore durante la conversione RAW dà esattamente gli
    stessi risultati di uno scatto impostato con una diversa temperatura
@@ -133,13 +133,13 @@ Caratteristiche di un file RAW
    parametri di scatto non meccanici (intendendo questi il diaframma,
    l’otturatore, ecc.) che influiscono sulla resa dell’immagine finale.
 
-.. [1] Nel caso dei file derivati in formato JPEG è sufficiente l’utilizzo
+.. [13] Nel caso dei file derivati in formato JPEG è sufficiente l’utilizzo
    dello spazio colore sRGB in quanto le modalità di fruizione
    dell’immagine digitale, mediata da un monitor o comunque da un altro
    dispositivo non professionale, non rendono necessario l’utilizzo di
    specifiche più performanti.
 
-.. [2] Si segnala che sono in corso iniziative per la standardizzazione di
+.. [14] Si segnala che sono in corso iniziative per la standardizzazione di
    formati immagine, come ad esempio JPG XL o il JBIG2; in questo
    documento ci si limita a segnalare la loro esistenza in attesa di
    verificarne il livello di diffusione e di standardizzazione.

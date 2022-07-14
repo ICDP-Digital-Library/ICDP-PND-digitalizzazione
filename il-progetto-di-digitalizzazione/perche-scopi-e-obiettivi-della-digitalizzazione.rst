@@ -1,4 +1,4 @@
-Perché (scopi e obiettivi della digitalizzazione) 
+Perché (scopi e obiettivi della digitalizzazione)
 ==================================================
 
 L’individuazione degli scopi e degli obiettivi costituisce la prima

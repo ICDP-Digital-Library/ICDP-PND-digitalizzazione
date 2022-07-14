@@ -34,7 +34,7 @@ quanto le evoluzioni tecnologiche esigono un continuo aggiornamento
 professionale e metodologico. Allo stesso modo non costituiscono oggetto
 di questo documento le operazioni di digitalizzazione effettuate per
 finalità diagnostiche. Gli aspetti gestionali delle infrastrutture per
-lo storage e della conservazione a lungo termine, il tema dei sistemi di
+lo *storage* e della conservazione a lungo termine, il tema dei sistemi di
 accesso e fruizione, l’argomento delle licenze d’uso e della
 circolazione delle riproduzioni dei beni culturali, nonché la
 strutturazione del piano di gestione dei dati sono demandati ad altri

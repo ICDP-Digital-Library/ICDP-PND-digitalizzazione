@@ -31,7 +31,7 @@ risorse umane dotate di competenze trasversali, che possano intervenire
 in modo mirato nell’espletamento di attività accessorie o
 complessivamente meno rilevanti nell’economia del progetto.
 
-A titolo di esempio, qualora non fossepossibile avere nel team di
+A titolo di esempio, qualora non fosse possibile avere nel team di
 progetto un restauratore, è necessario che il conservatore abbia
 conoscenze quanto meno di conservazione preventiva. In altre
 circostanze, specialmente nel caso di progetti di digitalizzazione di
@@ -147,7 +147,7 @@ umidità e modalità d’uso delle apparecchiature). Infine, il restauratore
 ha cura di verificare, nel caso in cui la digitalizzazione avvenga in un
 luogo esterno all’istituto di conservazione, l’adeguatezza dei mezzi e
 delle modalità di movimentazione e dei locali presso i quali i beni
-devono essere trasferiti per le attività di digitalizzazione. 
+devono essere trasferiti per le attività di digitalizzazione.
 
 Addetto alla logistica
 ----------------------

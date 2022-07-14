@@ -6,7 +6,7 @@ prodotti (master, derivati, metadati, documentazione di progetto) devono
 essere archiviati e consegnati in due copie su uno o più dei seguenti
 supporti o infrastrutture:
 
--  Infrastruttura cloud messa a disposizione dall’Amministrazione o da
+-  Infrastruttura *cloud* messa a disposizione dall’Amministrazione o da
    altro ente coinvolto nel progetto;
 
 -  Teca digitale messa a disposizione dall’Amministrazione per oggetti
@@ -55,7 +55,7 @@ Il NAS deve avere le seguenti caratteristiche minime:
 I dispositivi di *storage* possono essere consegnati nel corso dei
 rilasci, in base alle esigenze del progetto.
 
-Ogni posizione (*directory*) su Hard Disk, sui NAS e in cloud deve
+Ogni posizione (*directory*) su Hard Disk, sui NAS e in  deve
 essere identificata univocamente e deve contenere al proprio interno un
 file indice del contenuto.
 
@@ -63,7 +63,7 @@ Tutte le apparecchiature scelte devono essere consegnate con la
 documentazione della garanzia e, se possibile, con una relazione sulle
 motivazioni di scelta del prodotto.
 
-Nel caso di utilizzo di un sistema di memorizzazione in cloud, occorre
+Nel caso di utilizzo di un sistema di memorizzazione in *cloud*, occorre
 garantire che il contratto ad un fornitore esterno abbia una continuità
 pluriennale (almeno tre anni). Inoltre, deve essere esplicitata
 contrattualmente la politica di migrazione dei dati nel momento della
@@ -79,7 +79,7 @@ definito in fase di avvio lavori e deve riportare gli elementi univoci
 di identificazione del materiale e della descrizione.
 
 Occorre richiedere che nei supporti siano inseriti gli elenchi degli
-hash di ogni singolo file memorizzato (secondo un algoritmo dichiarato:
+*hash* di ogni singolo file memorizzato (secondo un algoritmo dichiarato:
 MD5o SHA1).
 
 Ogni disco fisico deve essere identificato con una apposita etichetta,

@@ -24,7 +24,7 @@ garantire il collegamento al sistema descrittivo relativo ai singoli
 ambiti.
 
 Se il numero delle figure professionali coinvolte nella campagna di
-digitalizzazione lo consente, si potrà optare per un workflow in cui la
+digitalizzazione lo consente, si potrà optare per un *workflow* in cui la
 metadatazione avviene durante il processo di digitalizzazione.
 
 In ogni caso, per digitalizzare un bene sarà indispensabile avergli
@@ -53,7 +53,7 @@ passato occorre in prima istanza fare uno studio di fattibilità per
 analizzare e valutare la compatibilità con le presenti Linee guida\ *.*
 Tale studio deve prendere in esame le seguenti attività: recupero delle
 eventuali descrizioni con indicazione degli standard adottati per la
-descrizione, analisi dei dati disponibili, mapping dei dati, definizione
+descrizione, analisi dei dati disponibili, *mapping* dei dati, definizione
 del processo di recupero, analisi delle digitalizzazioni esistenti e dei
 legami con le schede descrittive, con una valutazione dei formati
 disponibili e della loro qualità; definizione del processo di recupero

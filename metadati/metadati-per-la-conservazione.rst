@@ -1,4 +1,4 @@
-Metadati per la conservazione 
+Metadati per la conservazione
 ==============================
 
 I metadati possono essere funzionali ad alcune attività di conservazione
@@ -8,7 +8,7 @@ essere conservata integra e priva di manomissioni, l’informazione di
 abbia subito modifiche in un determinato arco temporale.
 
 Qualora i supporti di archiviazione dei file vengano danneggiati o
-diventino obsoleti si presenta il rischio della perdita dei dati. In tal
+diventino obsoleti, si presenta il rischio della perdita dei dati. In tal
 caso, i metadati sui supporti (che possono indicare, per esempio, il
 tipo di supporto e la sua età, o anche le date in cui è stato eseguito
 l’ultimo *refresh* dei file) possono essere utili per il recupero dei
@@ -27,8 +27,8 @@ digitale, documentandone la provenienza e la sua catena di custodia.
 Lo standard internazionale di riferimento per la conservazione degli
 oggetti digitali è PREMIS (*Preservation Metadata: Implementation
 Strategies*, versione 3.0), rilasciata nel 2015 dalla *Library of
-Congress* [1]_. PREMIS definisce i metadati di conservazione come
+Congress* [47]_. PREMIS definisce i metadati di conservazione come
 l’informazione usata da un repository allo scopo di supportare il
 processo di conservazione digitale.
 
-.. [1] https://www.loc.gov/standards/premis/v3/
+.. [47] https://www.loc.gov/standards/premis/v3/

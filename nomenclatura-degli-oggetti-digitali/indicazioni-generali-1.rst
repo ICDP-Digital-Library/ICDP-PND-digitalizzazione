@@ -16,9 +16,9 @@ quattro elementi principali, che possono poi essere eventualmente
 modificati sulla base di esigenze specifiche relative ai singoli sistemi
 di gestione delle risorse digitali:
 
--  **Codice istituto** [1]_;
+-  **Codice istituto** [48]_;
 
--  **Codice oggetto** [2]_;
+-  **Codice oggetto** [49]_;
 
 -  **Numero progressivo**;
 
@@ -35,11 +35,11 @@ CodiceIstituto+CodiceOggetto+NumeroProgressivo.EstensioneFile
 Il carattere “+” segnala la separazione tra le diverse aree di
 informazione.
 
-.. [1] Codici identificativi in uso presso gli istituti del MiC che possono
+.. [48] Codici identificativi in uso presso gli istituti del MiC che possono
    essere utilizzati per il Codice istituto possono essere: codice ISIL
    (ISO 15511), codice ISTAT, codice SBN, codice RISM.
 
-.. [2] Il codice oggetto riporta l’identificativo univoco assegnato alla
+.. [49] Il codice oggetto riporta l’identificativo univoco assegnato alla
    descrizione dell’oggetto. Può essere un numero o una sequenza
    alfanumerica. La suddivisione interna di questo codice può seguire
    una sintassi specifica per uno specifico sistema informativo o una

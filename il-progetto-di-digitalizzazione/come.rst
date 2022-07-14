@@ -39,7 +39,7 @@ negativo deve mantenere un piccolo margine in modo da rendere l’intero
 fotogramma, dato che sui bordi dello stesso possono essere presenti
 informazioni. Nel caso di riproduzioni di volumi e documenti,
 manoscritti e a stampa, la digitalizzazione deve comprendere tutto
-l’oggetto, comprese carte di guardia, carte bianche (sia interpolate che
+l’oggetto, comprese carte di guardia, carte bianche (sia interpolate sia
 consecutive), anche se prive di informazioni, e tutte le parti
 componenti la legatura: i piatti, il dorso, i tagli significativi,
 capitelli, fermagli, borchie, cantonali; in questi casi l’acquisizione
@@ -66,7 +66,7 @@ cui basare la scelta della modalità di scansione.
 
 Partendo dalle caratteristiche della strumentazione individuata, si deve
 tenere conto della quantità di originali che possono essere mediamente
-digitalizzati in una giornata lavorativa così da programmare la
+digitalizzati in una giornata lavorativa, così da programmare la
 movimentazione delle opere.
 
 Di seguito si fornisce una sintetica descrizione dei principali
@@ -77,7 +77,7 @@ digitalizzazioni 2D che 3D.
 Digitalizzazione 2D
 -------------------
 
-Scanner: tipologie e caratteristiche 
+Scanner: tipologie e caratteristiche
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Principali strumenti di digitalizzazione di oggetti bidimensionali, gli
@@ -86,7 +86,7 @@ soluzioni. È fondamentale, nella scelta delle strumentazioni, tenere
 conto dell’aspetto conservativo degli originali prima di procedere: le
 apparecchiature scanner dovranno essere scelte in base al tipo di bene
 da trattare e avere caratteristiche tecniche e progettuali di fascia
-professionale con particolare attenzione alla possibilità di salvare il
+professionale, con particolare attenzione alla possibilità di salvare il
 file nel formato grezzo (RAW).
 
 Scanner piani
@@ -124,10 +124,10 @@ evitando il contatto diretto ed essendo normalmente dotato di piani
 basculanti e di luci LED prive di raggi infrarossi e ultravioletti.
 
 Esistono due tipologie di scanner planetario: a **sensore**\* lineare o
-a sensore a matrice. Per i primi la scansione avviene tramite un
+a sensore a matrice. Per il primo caso, la scansione avviene tramite un
 passaggio meccanico del sensore sopra il documento da digitalizzare,
-mentre per i secondi la scansione richiede il tempo di uno scatto
-fotografico [1]_.
+mentre nel secondo la scansione richiede il tempo di uno scatto
+fotografico [2]_.
 
 Gli scanner planetari permettono di acquisire ad alta risoluzione
 documenti cartacei e pergamenacei anche di grande formato, garantendo
@@ -214,7 +214,7 @@ modello di scanner più adatto ai propri scopi vi sono i valori di
 risoluzione ottica (reale, non interpolata), di densità/gamma dinamica
 (vedi Glossario) e, a questa strettamente legati, di profondità di bit.
 
-Fotocamere: tipologie e caratteristiche 
+Fotocamere: tipologie e caratteristiche
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La fotocamera digitale, insieme o in sostituzione allo scanner,
@@ -253,7 +253,7 @@ Ottica
 Viene scelta in base al tipo di soggetto. Sono da prediligere obiettivi
 luminosi (con ampie aperture di diaframma), privi di distorsioni e
 aberrazioni ottiche e con alte curve MTF (*Modulation Transfer
-Function*) [2]_. Inoltre debbono avere una focale (e/o rapporto di
+Function*) [3]_. Inoltre debbono avere una focale (e/o rapporto di
 ingrandimento) adeguata alla necessità di ripresa, per esempio ottiche
 macro con rapporto 1:1 per la digitalizzazione di originali fotografici
 di piccolo formato o beni di dimensioni estremamente ridotte.
@@ -302,7 +302,7 @@ serie di scatti, ma va collocata in coda al pacchetto di immagini. La
 scala millimetrica deve essere posizionata lungo il bordo inferiore con
 lo “zero” allineato al bordo verticale della carta/pagina. Normalmente
 la scansione, che procede per documento aperto, produrrà due file
-separati (due pagine o un verso e un recto) [3]_. Infatti quello che di
+separati (due pagine o un verso e un recto) [4]_. Infatti quello che di
 norma, tranne per casi specifici, viene considerato come singolo oggetto
 digitale fa riferimento al verso o al recto di ciascuna carta per i
 manoscritti, o alla singola pagina per testi a stampa. In fase di
@@ -364,13 +364,13 @@ successivi privi di riferimenti.
 
 Le impostazioni di base da applicare per la fotocamera sono: sensibilità
 ISO nativa del sensore (le amplificazioni del segnale portano ad una
-minor qualità dell'immagine); **spazio colore**\* Adobe RGB [4]_;
+minor qualità dell'immagine); **spazio colore**\* Adobe RGB [5]_;
 registrazione file di tipo RAW non compresso.
 
 Workflow con lo scanner piano e con il planetario
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Tutte le workstation di digitalizzazione debbono essere corredate da
+Tutte le *workstation* di digitalizzazione debbono essere corredate da
 idoneo piano di appoggio per la movimentazione in sicurezza degli
 originali da trattare.
 
@@ -387,7 +387,7 @@ una corretta restituzione cromatica degli originali.
 
 Per ogni originale è richiesto un file RAW DNG. Laddove lo scanner piano
 o planetario non sia nativamente in grado di generare formati RAW, esso
-deve essere integrato con un driver di terze parti che consenta la
+deve essere integrato con un *driver* di terze parti che consenta la
 digitalizzazione in RAW.
 
 Interventi di post-produzione
@@ -411,7 +411,7 @@ subire manipolazioni, se non in relazione ad un miglioramento della sua
 leggibilità.
 
 Le eventuali correzioni, fatta salva l’applicazione del **profilo
-colore**\* [5]_ mettere nota e il successivo bilanciamento del bianco,
+colore**\* [6]_ e il successivo bilanciamento del bianco,
 devono essere effettuate solo per curve di livelli, luminosità,
 contrasto, e l’eventuale applicazione di una leggera maschera di
 contrasto. Il profilo colore, generato con apposito software prima di
@@ -472,10 +472,10 @@ durante l'intero flusso di lavoro possono essere incorporate nell'output
 finale: le coordinate delle regioni e i loro tipi, le coordinate delle
 linee, le posizioni dei caratteri. Sono stati proposti diversi formati
 che possono incorporare la maggior parte o tutte le informazioni sopra
-citate, ad esempio ALTO [6]_ e hOCR [7]_.
+citate, ad esempio ALTO [7]_ e hOCR [8]_.
 
-È fondamentale che un sistema OCR sia in grado di riconoscere nei
-contenuti dei layout set di grafi stampati nelle varie epoche di
+È fondamentale che un sistema OCR sia in grado di riconoscere, nei
+contenuti dei *layout* "set di grafi stampati nelle varie epoche di
 differenti alfabeti, sia antichi che moderni. Tuttavia, questi sistemi
 allo stato dell'arte non sono ancora pienamente appropriati per il
 riconoscimento di oggetti digitali relativi a manoscritti. Un modo più
@@ -493,12 +493,12 @@ Nondimeno, la qualità di un sistema di OCR è legata all'estrazione dei
 caratteri e alla loro selezione e classificazione basata su modelli. Su
 questo particolare aspetto, hanno particolare rilievo alcuni software
 sviluppati nell’ambito dell’ICR come *Handwritten Text Recognition*
-(HTR) che ha ricevuto un'attenzione crescente come evoluzione dell'OCR e
+(HTR), che ha ricevuto un'attenzione crescente come evoluzione dell'OCR e
 su cui la ricerca si sta particolarmente focalizzando. Attualmente sono
-in sperimentazione alcuni sistemi in grado di processare i layout con
+in sperimentazione alcuni sistemi in grado di processare i *layout* con
 buone percentuali di restituzione in ipertesto dei contenuti (50-80%). A
 questo va aggiunto le funzionalità evolute di *Graphic Matching*, che
-ottengono risultati rilevanti nel riconoscimento sul layout degli
+ottengono risultati rilevanti nel riconoscimento sul *layout* degli
 oggetti di grafi, parti di lemmi, lemmi o combinazioni di lemmi in
 frasi.
 
@@ -538,7 +538,7 @@ caratteri (OCR). hOCR codifica il testo, lo stile, le informazioni sul
 layout, le metriche di affidabilità del riconoscimento e altre
 informazioni utilizzando XML, sotto forma di HTML o XHTML. Alcuni
 strumenti specifici permettono di personalizzare gli output XML hOCR
-secondo lo schema XML/TEI [8]_.
+secondo lo schema XML/TEI [9]_.
 
 Digitalizzazione 3D
 -------------------
@@ -591,7 +591,7 @@ minimo il numero di stazioni (qualora sia necessario averne più di una o
 qualora non si adotti un’unica stazione grazie all’uso di una base
 girevole su cui è appoggiato il bene) e individuare quali viste possano
 ottimizzare il tempo di acquisizione e l’accuratezza delle acquisizioni
-proposte. Occorre assicurare inoltre la presenza tra più scansioni di
+proposte. Occorre assicurare, inoltre, la presenza tra più scansioni di
 aree di sovrapposizione (pari al 30%), in modo da ricoprire interamente
 le superfici scansionate.
 
@@ -624,7 +624,7 @@ svolgimento di alcune attività manuali o automatizzate, al fine di
 elaborare l’informazione digitale acquisita.
 
 Durante le attività di post-produzione, saranno necessarie delle azioni
-sulla nuvola di punti prima che venga trasformata in mesh 3d. Tali
+sulla nuvola di punti prima che venga trasformata in *mesh* 3d. Tali
 interventi riguardano prevalentemente l’eliminazione del “rumore” dei
 dati acquisiti, cioè la riduzione della ridondanza di punti e, qualora
 necessario, la realizzazione del modello tridimensionale texturizzato
@@ -632,9 +632,9 @@ necessario, la realizzazione del modello tridimensionale texturizzato
 immagini che rispondano a caratteristiche di qualità. Tali immagini
 devono poi essere processate con software dedicati per ottimizzarle, in
 modo da garantire sia un risultato visivo ottimale sia la possibilità di
-navigazione attraverso i più comuni browser web.
+navigazione attraverso i più comuni *browser web*.
 
-Elaborazione del dato 
+Elaborazione del dato
 ^^^^^^^^^^^^^^^^^^^^^
 
 L’elaborazione dei dati acquisiti richiede *workstation* dalle elevate
@@ -656,7 +656,7 @@ l’uso di laser con integrazioni di fotocamere digitali sono
 indispensabili dove è necessario il dato cromatico. In questo caso
 l’informazione digitale sarà costituita da un modello tridimensionale
 digitale a nuvola di punti ad alta densità texturizzata, consultabile ed
-esportabile. Il risultato ottenuto, elaborato sotto forma di mesh e
+esportabile. Il risultato ottenuto, elaborato sotto forma di *mesh* e
 texturizzato, può essere esportato come modello tridimensionale in
 formato adatto (per esempio OBJ o 3DS).
 
@@ -697,7 +697,7 @@ sistema globale o, preferibilmente, in entrambi. Eventualmente la quota
 altimetrica del sistema locale può essere calcolata da un punto quota
 noto sul posto, oppure da grafici già rilevati in precedenza. È buona
 norma che il sistema locale sia georeferenziato, se possibile, al
-sistema di riferimento geodetico nazionale ETRF2000 [9]_ o almeno al più
+sistema di riferimento geodetico nazionale ETRF2000 [10]_ o almeno al più
 diffuso sistema di riferimento geodetico mondiale WGS84.
 
 Range di fedeltà digitale
@@ -785,7 +785,7 @@ indispensabile documentare con precisione ogni intervento effettuato sui
 supporti e tutte le scelte tecniche adottate (pulitura del supporto,
 presenza e ripristino di giunzioni sui supporti magnetici, marca e tipo
 del lettore utilizzato, specifiche tecniche del sistema di lettura –
-tipo di pick-up di lettura dimensioni dello stilo per i dischi, ecc.).
+tipo di *pick-up* di lettura dimensioni dello stilo per i dischi, ecc.).
 
 Per la digitalizzazione è opportuno fare riferimento ai seguenti
 documenti della IASA:
@@ -799,7 +799,7 @@ documenti della IASA:
 -  IASA-TC 06 (2019), *Guidelines for the Preservation of Video
    Recordings.*
 
-Principi generali e standard per la digitalizzazione dei documenti sonori 
+Principi generali e standard per la digitalizzazione dei documenti sonori
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 È importante, ai fini della conservazione dei documenti sonori, che i
@@ -878,12 +878,12 @@ archiviazione della conservazione progettati per supportare processi che
 prevedano l'inevitabile cambiamento di formato, supporto o altre
 tecnologie. L'obiettivo principale nella conservazione digitale è quello
 di costruire sistemi sostenibili piuttosto che supporti
-permanenti» [10]_.
+permanenti» [11]_.
 
-.. [1] Altre tipologie specifiche di scanner planetari sono: Scanner a
+.. [2] Altre tipologie specifiche di scanner planetari sono: Scanner a
    piani basculanti; Book scanner; Scanner verticali.
 
-.. [2] Le curve MTF restituiscono parametri tecnici che permettono di
+.. [3] Le curve MTF restituiscono parametri tecnici che permettono di
    giudicare le qualità di una lente in maniera oggettiva. Tali
    parametri sono: la risoluzione e il contrasto dell’ottica, il suo
    astigmatismo e l’aberrazione cromatica laterale, il campo di
@@ -892,11 +892,11 @@ permanenti» [10]_.
    riproduzioni in cui gli originali hanno un elevato dettaglio fine
    (per esempio, le incisioni), ne guidano la scelta.
 
-.. [3] Altre tipologie di documenti cartacei (es. Registri catastali)
+.. [4] Altre tipologie di documenti cartacei (es. Registri catastali)
    possono essere scansionati in modo tale da comprendere, all’interno
    della stessa immagine, tutte le fincature della pagina.
 
-.. [4] Un altro spazio colore disponibile è sRGB; tuttavia, l’uso di Adobe
+.. [5] Un altro spazio colore disponibile è sRGB; tuttavia, l’uso di Adobe
    RGB è preferibile per evitare perdite di informazioni (quali tagli -
    *clipping* - nei verdi, rossi e arancioni) che spesso si riscontrano
    utilizzando sRGB. Adobe RGB è uno spazio colore proprietario il cui
@@ -904,10 +904,10 @@ permanenti» [10]_.
    è infatti preinstallato all’interno dei software della maggior parte
    dei corpi macchina disponibili sul mercato.
 
-.. [5] Tra i profili colore standard più consolidati e “pronti all’uso”,
+.. [6] Tra i profili colore standard più consolidati e “pronti all’uso”,
    offerti da varie aziende, è fortemente consigliato l’uso del profilo
    colore Adobe RGB 1998 (Adobe), o ProPhoto RGB (Kodak), in fase di
-   acquisizione digitale, in quanto offrono un gamut molto largo,
+   acquisizione digitale, in quanto offrono un *gamut* molto largo,
    progettato per l'utilizzo in fotografia. Questo spazio colore
    contiene più del 90% dei colori possibili nello spazio CIE L*a*b*, ed
    il 100% dei colori del mondo reale. Questi spazi colore garantiscono
@@ -924,13 +924,13 @@ permanenti» [10]_.
    su dispositivi di acquisizione a patto di garantire i risultati
    ottenibili con i software di aziende commerciali.
 
-.. [6] https://www.loc.gov/standards/alto/
+.. [7] https://www.loc.gov/standards/alto/
 
-.. [7] Breuel, T.M. (2007). *The hOCR microformat for OCR workflow and
+.. [8] Breuel, T.M. (2007). *The hOCR microformat for OCR workflow and
    results. Ninth International Conference on Document Analysis and
-   Recognition*. IEEE, 2007, Vol. 2, pp. 1063–106xxxxx?
+   Recognition*. IEEE, 2007, Vol. 2, pp. 1063–1067
 
-.. [8] Si segnalano alcuni software open source che possono essere
+.. [9] Si segnalano alcuni software open source che possono essere
    utilizzati per OCR:
 
    OCR4all - https://github.com/OCR4all
@@ -941,7 +941,7 @@ permanenti» [10]_.
 
    EScriptorium - https://escriptorium.fr/
 
-.. [9] Nel 2011, con Decreto della Presidenza del Consiglio dei
+.. [10] Nel 2011, con Decreto della Presidenza del Consiglio dei
    Ministri (Adozione del Sistema di riferimento geodetico nazionale,
    10.11.2011), per agevolare la fruibilità e lo scambio di dati e di
    informazioni territoriali fra le amministrazioni centrali, regionali
@@ -950,5 +950,5 @@ permanenti» [10]_.
    riferimento geodetico europeo ETRS89, basato sull'ellissoide GRS80
    (sostanzialmente coincidente con il successivo WGS84). 
 
-.. [10] IASA-TC 04 (2009, 2nd edition), *Guidelines on the Production and
+.. [11] IASA-TC 04 (2009, 2nd edition), *Guidelines on the Production and
    Preservation of Digital Audio Objects,* p. 90.

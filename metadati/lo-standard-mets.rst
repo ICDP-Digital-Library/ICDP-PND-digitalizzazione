@@ -4,7 +4,7 @@ Lo standard METS
 Fatta salva la possibilità da parte degli istituti culturali di produrre
 metadati secondo standard necessari per la gestione delle risorse
 all’interno dei propri sistemi, nelle presenti Linee guida viene
-descritto il METS (Metadata Encoding and Transmission Standard) [1]_,
+descritto il METS (Metadata Encoding and Transmission Standard) [15]_,
 standard di metadatazione ampiamente utilizzato a livello internazionale
 che occorre utilizzare a livello nazionale per la descrizione e la
 gestione degli oggetti digitali nei progetti di digitalizzazione. Lo
@@ -51,4 +51,4 @@ Un documento METS è costituito da sette sezioni principali:
    comportamenti (per esempio, la visualizzazione) con il contenuto
    dell'oggetto METS.
 
-.. [1] https://www.loc.gov/standards/mets/
+.. [15] https://www.loc.gov/standards/mets/
