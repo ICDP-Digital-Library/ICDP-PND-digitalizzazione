@@ -168,12 +168,11 @@ Glossario
     momento della registrazione dell’immagine da parte dello scanner o della
     fotocamera e in essa incorporati. I dati registrati possono essere:
 
-    - Statici: come ad esempio quelli che identificano marca e modello della
-    macchina fotografica;
+    - Statici: come ad esempio quelli che identificano marca e modello della macchina fotografica;
 
     - Dinamici; che cambiano di foto in foto, come ad esempio i valori usati
-    per apertura, tempo di esposizione e ISO o la data in cui la foto è
-    stata scattata.
+      per apertura, tempo di esposizione e ISO o la data in cui la foto è
+      stata scattata.
 
   Firmware
     È il software residente a bordo di una apparecchiatura fotografica,

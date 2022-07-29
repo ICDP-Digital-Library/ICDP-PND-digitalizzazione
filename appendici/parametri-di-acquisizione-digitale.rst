@@ -34,8 +34,8 @@ loro specificità materiali e compositive.
 | cm lato lungo                     |                                   |
 +-----------------------------------+-----------------------------------+
 | Beni della dimensione oltre i 100 | Variabile a seconda della         |
-| cm lato lungo                     | destinazione finale modellare     |
-|                                   | immagine                          |
+| cm lato lungo                     | destinazione finale dell'immagine |
+|                                   |                                   |
 +-----------------------------------+-----------------------------------+
 
 La tabella riporta, per le varie tipologie di beni di differenti
@@ -48,13 +48,13 @@ RGB, di 48 bit.
 usando o un foglio di calcolo o delle applicazioni disponibili online.
 
 Per finalità di pubblicazione in rete si raccomanda di produrre file
-JPEG a 300 ppi, con valore di compressione 85%, con profondità di colore
+JPEG a 300 dpi, con valore di compressione 85%, con profondità di colore
 a 24 bit RGB, con ricampionamento (*resampling*) delle immagini, metodo
 tramite il quale il “print size” (DPI) del file JPG risulterà identico a
 quello del file TIFF.
 
 Nel caso di documenti di dimensioni molto piccole, di cui una inferiore
-ai 10 cm, mantenendo il JPEG 300 ppi, può essere opportuno applicare il
+ai 10 cm, mantenendo il JPEG 300 dpi, può essere opportuno applicare il
 parametro relativo alle dimensioni in pixel della risorsa digitale,
 definendo di default il valore per il lato lungo: 3000 pixel. Tuttavia,
 una valutazione sull'utilizzo di questa modalità deve essere oggetto
